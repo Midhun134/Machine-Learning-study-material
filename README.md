@@ -1,1 +1,2 @@
 10 lectures on Machine learning from London Metropolitan University, which are for beginners who have no idea and are passionate to learn more about machine learning, while the completion of these lectures will give you the theoretical knowledge on ML which you can use to implement various types of simple models on supervised model and unsupervised model as well as complex models like neural networks and decision trees.
+..
